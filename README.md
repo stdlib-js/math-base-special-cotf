@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotf@esm/index.mjs';
+import cotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotf@v0.1.0-esm/index.mjs';
 ```
 
 #### cotf( x )
@@ -89,7 +89,7 @@ v = cotf( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@esm/index.mjs';
-import cotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotf@esm/index.mjs';
+import cotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
